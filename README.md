@@ -1,4 +1,4 @@
 # MLProjects
 
-here i will be uploading kaggle projects amongst other ml projects
+here i will be uploading kaggle competitions amongst other ml projects
 
